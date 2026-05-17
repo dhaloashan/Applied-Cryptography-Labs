@@ -1,6 +1,4 @@
-<h1>Applied Cryptography Laboratory</h1>
-
-<h2>Cryptographic Algorithms, Protocols & Secure Communication Labs</h2>
+<h1>Cryptographic Algorithms, Protocols & Secure Communication Labs</h1>
 
 <p>
   This repository contains laboratory projects completed as part of the
