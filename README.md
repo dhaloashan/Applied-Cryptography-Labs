@@ -123,43 +123,6 @@
 
 <hr>
 
-<h2>📂 Repository Structure</h2>
-
-<pre>
-Applied-Cryptography-Laboratory/
-│
-├── README.md
-│
-├── lab1/
-│   ├── Lab_1_Part_1_Hash_Function_AJ.ipynb
-│   ├── Lab_1_Part_2_Stream_Cipher_AJ.ipynb
-│   └── Lab_1_Report.pdf
-│
-├── lab2/
-│   ├── Lab_2_AES_Algorithm_AJ.ipynb
-│   └── Lab_2_Report.pdf
-│
-├── lab3/
-│   ├── Lab_3_Part_1_Asymmetric_AJ.ipynb
-│   ├── Lab_3_1_Report.pdf
-│   ├── Lab_3_2_Report.pdf
-│   └── protocols/
-│
-├── images/
-│   ├── aes-rounds.png
-│   ├── lfsr-diagram.png
-│   ├── rsa-flow.png
-│   ├── protocol-design.png
-│   └── stream-cipher.png
-│
-└── docs/
-    ├── cryptographic-notes.md
-    ├── protocol-analysis.md
-    └── security-concepts.md
-</pre>
-
-<hr>
-
 <h2>🚀 Key Learning Outcomes</h2>
 
 <ul>
